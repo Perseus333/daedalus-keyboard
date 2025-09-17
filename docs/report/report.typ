@@ -825,5 +825,3 @@ pcbs:
 
 
 #bibliography("resources.yaml", title: "Resources")
-
-
