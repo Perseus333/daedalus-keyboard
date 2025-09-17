@@ -1,0 +1,268 @@
+# Hayagriva file
+splitkbcompare:
+    type: web
+    title: splitKbCompare
+    author: John Helveston
+    url: https://github.com/jhelvy/splitKbCompare
+    date: 2025-09-04
+
+crosses-kb:
+    type: web
+    title: Crosses Modular Keyboard
+    author: u/timbetimbe
+    url: https://ergokeyboards.com/products/crosses-modular-keyboard
+    date: 2025-08-30
+
+absolem-kb:
+    type: web
+    title: Absolem Keyboard
+    author: Bán Dénes (@mrzealot)
+    url: https://zealot.hu/absolem/
+    date: 2025-09-04
+
+ergogen:
+    type: web
+    title: Ergogen
+    author: Bán Dénes (@mrzealot)
+    url: https://ergogen.xyz/
+    date: 2025-09-04
+
+ergogen-ceoloide:
+    type: web
+    title: Ergogen Unofficial
+    author: Marco Massarelli (@ceoloide)
+    url: https://ergogen.ceoloide.com/
+    date: 2025-09-04
+
+nrf-ps:
+    type: web
+    title: nRF52840 Product Specification v1.11
+    author: Nordic Semiconductor
+    url: https://docs-be.nordicsemi.com/bundle/ps_nrf52840/attach/nRF52840_PS_v1.11.pdf?_LANG=enus
+    date: 2025-09-04
+
+zmk-power-profiler:
+    type: web
+    title: ZMK Power Profiler
+    author: ZMK Project Contributors
+    url: https://zmk.dev/power-profiler
+    date: 2025-09-04
+
+battery:
+    type: web
+    title: Lithium Battery 110mAh
+    author: Nice Technologies LLC
+    url: https://typeractive.xyz/products/lithium-battery-110mah?variant=46118748291303
+    date: 2025-09-04
+
+ambients-switch:
+    type: web
+    title: Ambients Silent Choc Switches Twilight
+    author: HolyKeebs
+    url: https://holykeebs.com/products/ambients-silent-choc-switches?variant=47849514860834
+    date: 2025-09-04
+
+sunset-switch:
+    type: web
+    title: Sunsets Tactile Choc Switches
+    author: HolyKeebs
+    url: https://holykeebs.com/products/sunsets-tactile-choc-switches
+    date: 2025-09-04
+
+cirque-glidepoint:
+    type: web
+    title: TM035035-2024-002
+    author: Mouser Electronics, Inc.
+    url: https://eu.mouser.com/ProductDetail/Cirque/TM035035-2024-002?qs=wd5RIQLrsJijxpRBQzhwPg%3D%3D
+    date: 2025-09-04
+
+alps-encoder:
+    type: web
+    title: Rotary Encoder
+    author: Mechboards
+    url: https://mechboards.co.uk/products/kit-components-and-parts?variant=55527712260476
+    date: 2025-09-04
+
+joescotto-repo:
+    type: web
+    title: Scotto KiCad
+    author: Joe Scotto (@scottokeebs)
+    url: https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad
+    date: 2025-09-04
+
+ceoloide-repo:
+    type: web
+    title: Ergogen Footprints
+    author: Marco Massarelli (@ceoloide)
+    url: https://github.com/ceoloide/ergogen-footprints
+    date: 2025-09-04
+
+scotto-vid:
+    type: web
+    title: How to Design Mechanical Keyboard PCBs with Kicad
+    author: Joe Scotto
+    url: https://www.youtube.com/watch?v=8WXpGTIbxlQ
+    date: 2025-09-04
+
+flatfootfox-guide:
+    type: web
+    title: Let's Design A Keyboard With Ergogen v4 Units & Points (Part 1)
+    author: FlatFootFox
+    url: https://flatfootfox.com/ergogen-part1-units-points/
+    date: 2025-09-04
+
+jlc:
+    type: web
+    title: JLCPCB
+    author: JLCPCB.COM
+    url: https://jlcpcb.com/
+    date: 2025-09-04
+
+mounting-options:
+    type: web
+    title: Cheat sheet Custom keyboard mounting styles
+    author: Thomas Baart
+    url: https://thomasbaart.nl/2019/04/07/cheat-sheet-custom-keyboard-mounting-styles/
+    date: 2025-09-05
+
+kyria-trackpad-holder:
+    type: web
+    title: Kyria 35mm Cirque circle trackpad holder
+    author: Daniel Kao
+    url: https://www.thingiverse.com/thing:5385829
+    date: 2025-09-05
+
+poron-bad:
+    type: report
+    title: Guidelines for CO2 Laser Cutting of PORON® Urethanes and BISCO® Silicones
+    author: Rorgers Corporation
+    url: https://tools.rogerscorp.com/documents/933/hpf/poron/industrial/CO2-Laser-Cutting-of-PORON-Urethanes.aspx
+    date: 2025-09-05
+
+zmk-docs:
+    type: web
+    title: Introduction to ZMK
+    author: ZMK Project Contributors
+    url: https://zmk.dev/docs
+    date: 2025-09-05
+
+conventional-commits:
+    type: web
+    title: Conventional Commits
+    author: Conventional Commits
+    url: https://www.conventionalcommits.org/en/v1.0.0/
+    date: 2025-09-05
+
+# Nomenclature
+
+ergonomics:
+    type: web
+    title: Ergonomics
+    author: UNC
+    url: https://ehs.unc.edu/topics/ergonomics/
+    date: 2025-08-01
+
+cherry-mx:
+    type: web
+    title: Cherry MX Switches
+    author: Cherry
+    url: https://www.cherry.de/en-gb/products/switches
+    date: 2025-08-01
+
+khail-choc:
+    type: web
+    title: Khail Choc Switches
+    author: Khail
+    url: http://www.kailh.com/en/Products/Ks/CS/
+    date: 2025-08-01
+
+gateron-low:
+    type: web
+    title: Gateron Low
+    author: Gateron
+    url: https://www.gateron.com/collections/low-profile-series
+    date: 2025-08-01
+
+layers-explained:
+    type: web
+    title: KeebMaker - Layers
+    author: KeebMaker
+    url: https://keebmaker.com/pages/layers
+    date: 2025-08-01
+
+via:
+    type: web
+    title: VIA - Homepage
+    author: VIA team
+    url: https://www.caniusevia.com/
+    date: 2025-08-01
+
+qmk:
+    type: web
+    title: QMK Firmware
+    author: QMK Collaborators
+    url: https://qmk.fm/
+    date: 2025-08-01
+
+zmk:
+    type: web
+    title: ZMK Firmware
+    author: ZMK Project Contributors
+    url: https://zmk.dev
+    date: 2025-08-01
+
+stagger:
+    type: web
+    title: Staggering explained
+    author: Deskthority
+    url: https://deskthority.net/wiki/Staggering
+    date: 2024-11-01
+
+thumb-cluster:
+    type: web
+    title: Thumb Keys
+    author: Matt Gemmell
+    url: https://mattgemmell.scot/thumb-keys/
+    date: 2025-08-01
+
+key-rollover:
+    type: web
+    title: Key Rollover
+    author: Wikipedia
+    url: https://en.wikipedia.org/wiki/Key_rollover
+    date: 2025-08-01
+
+trackball:
+    type: web
+    title: trackball
+    author: Wikipedia
+    url: https://en.wikipedia.org/wiki/Trackball
+    date: 2025-08-01
+
+nice-nano:
+    type: web
+    title: Nice!Nano
+    author: Nice Technologies
+    url: https://nicekeyboards.com/nice-nano/
+    date: 2025-08-01
+
+rsi:
+    type: web
+    title: Repetitive Strain Injury (RSI)
+    author: Britannica
+    url: https://www.britannica.com/science/repetitive-strain-injury
+    date: 2025-08-01
+
+optical-switch:
+    type: web
+    title: Razer Optical Switches
+    author: Razer
+    url: https://www.razer.com/razer-optical-switch
+    date: 2025-08-01
+
+ble:
+    type: web
+    title: Bluetooth Low Energy
+    author: Wikipedia
+    url: https://en.wikipedia.org/wiki/Bluetooth_Low_Energy
+    date: 2025-08-01

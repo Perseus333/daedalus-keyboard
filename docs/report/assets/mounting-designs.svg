@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="148mm"
+   viewBox="0 0 210 148"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="mounting-designs.svg"
+   inkscape:version="1.4.2 (ebf0e940d0, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#505050"
+     bordercolor="#eeeeee"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#505050"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.60845258"
+     inkscape:cx="471.68836"
+     inkscape:cy="380.47336"
+     inkscape:window-width="1440"
+     inkscape:window-height="936"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="g18"
+     inkscape:export-bgcolor="#000000ff">
+    <inkscape:grid
+       id="grid1"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="true"
+       visible="true" />
+    <inkscape:grid
+       type="modular"
+       id="grid2"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="39.999999"
+       spacingy="40.000001"
+       empcolor="#0047cb"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="0"
+       marginx="0"
+       marginy="0"
+       gapx="9.9999998"
+       gapy="10"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       id="grid3"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       id="grid4"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       type="modular"
+       id="grid5"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="39.999999"
+       spacingy="40.000001"
+       empcolor="#0047cb"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="0"
+       marginx="0"
+       marginy="0"
+       gapx="9.9999998"
+       gapy="10"
+       enabled="false"
+       visible="true" />
+    <inkscape:grid
+       type="axonomgrid"
+       id="grid6"
+       units="mm"
+       originx="0"
+       originy="0"
+       spacingx="0.99999998"
+       spacingy="1"
+       empcolor="#0099e5"
+       empopacity="0.30196078"
+       color="#0099e5"
+       opacity="0.14901961"
+       empspacing="5"
+       dotted="false"
+       gridanglex="30"
+       gridanglez="30"
+       enabled="false"
+       visible="true" />
+    <inkscape:page
+       x="0"
+       y="0"
+       width="210"
+       height="148"
+       id="page2"
+       margin="0"
+       bleed="0" />
+  </sodipodi:namedview>
+  <defs
+     id="defs1" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <g
+       id="g17"
+       inkscape:label="V2"
+       transform="matrix(0.88372091,0,0,0.88372091,10.69768,22.093023)">
+      <path
+         style="fill:#f6572f;fill-opacity:1;stroke-width:0.79375"
+         d="m 195,84.999996 v -5 h 15 v 5 z"
+         id="path17"
+         inkscape:label="nut r" />
+      <path
+         style="fill:#f6572f;fill-opacity:1;stroke-width:0.79375"
+         d="m 120,84.999996 v -5 h 15 c 0,0 0,5 0,5 z"
+         id="path16"
+         inkscape:label="nur l" />
+      <path
+         style="fill:#1fc1dd;fill-opacity:1;stroke-width:0.79375"
+         d="M 115,84.999997 V 54.999998 h 5 v 20 h 90.00001 v -20 h 5 v 29.999999 h -5 V 79.999998 H 195 v 4.999999 h -60 v -4.999999 h -15 v 4.999999 z"
+         id="path6-9"
+         sodipodi:nodetypes="ccccccccccccccccc"
+         inkscape:label="case left" />
+      <path
+         style="fill:#b234c8;fill-opacity:1;stroke-width:0.900027"
+         d="m 120,59.999998 v -5 h 90 v 5 z"
+         id="path7-2"
+         inkscape:label="top plate" />
+      <path
+         style="fill:#212124;fill-opacity:1;stroke-width:1.50603"
+         d="m 120,65 v 9.999999 h 90 V 65 Z"
+         id="path10-8"
+         inkscape:label="Foam bottom" />
+      <path
+         style="fill:#0b660e;fill-opacity:1;stroke-width:1.06493"
+         d="M 120,59.999999 V 65 h 90 v -5.000001 z"
+         id="path11-7"
+         inkscape:label="PCB" />
+      <g
+         id="g16-3"
+         inkscape:label="Switch"
+         style="display:inline"
+         inkscape:highlight-color="#f8e82a"
+         transform="translate(105)">
+        <path
+           style="fill:#804f0e;fill-opacity:1;stroke-width:0.79375"
+           d="m 65.000004,69.999998 h 5 l -2e-6,-9.999999 h -4.999997 z"
+           id="path12-6-6"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="pin r" />
+        <path
+           style="fill:#804f0e;fill-opacity:1;stroke-width:0.79375"
+           d="m 50.000004,69.999998 h 5 l -3e-6,-9.999999 h -4.999997 z"
+           id="path12-1"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="pin l" />
+        <path
+           style="fill:#fdac43;fill-opacity:1;stroke-width:0.79375"
+           d="m 40.000001,42.999999 h 4 l 4,-7 h 25.000001 l 3,7 H 80 l -4.999998,-10 H 45.000001 Z"
+           id="path14-2"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:label="keycap" />
+        <path
+           style="fill:#fdac43;fill-opacity:1;stroke-width:0.79375"
+           d="m 75.000002,54.999998 v 5 H 45.000001 v -5 h -4.999999 v -5.000001 l 4.999997,-4.999998 H 75 l 5,4.999998 2e-6,5.000001 z"
+           id="path13-9"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:label="body" />
+        <path
+           style="fill:#fdac43;fill-opacity:1;stroke-width:0.79375"
+           d="m 50,44.999999 v -5 l 2.000001,-4 h 16.000001 l 2,4 v 5 z"
+           id="path15-3"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:label="head" />
+      </g>
+      <path
+         style="fill:#adc723;fill-opacity:1;stroke-width:0.79375"
+         d="M 195.00001,54.999998 V 49.999997 H 210 v 5.000001 h -5 v 29.999999 h -5 V 54.999998 Z"
+         id="path8-1-1"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Screw R" />
+      <path
+         style="fill:#adc723;fill-opacity:1;stroke-width:0.79375"
+         d="m 120,54.999998 v -5.000001 h 15 v 5.000001 h -5 v 29.999999 h -5 V 54.999998 Z"
+         id="path8-9"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Screw L" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.80581px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#adc723;fill-opacity:1;stroke-width:0.701453"
+         x="134.08574"
+         y="110.41525"
+         id="text18-4"
+         transform="matrix(1.131579,0,0,1.131579,-12.10527,-25)"><tspan
+           sodipodi:role="line"
+           id="tspan18-9"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98811px;font-family:Monospace;-inkscape-font-specification:'Monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.701453"
+           x="134.08574"
+           y="110.41525">Revised Version</tspan></text>
+    </g>
+    <g
+       id="g18"
+       inkscape:label="V1"
+       transform="matrix(0.88372091,0,0,0.88372091,-2.558134,22.093023)">
+      <path
+         style="fill:#bcbcbc;fill-opacity:0.969263;stroke-width:0.924691"
+         d="m 10.000001,79.999998 v 5.000001 H 105 V 79.999998 H 10.000001"
+         id="path9"
+         inkscape:label="plate bottom" />
+      <path
+         style="fill:#1fc1dd;fill-opacity:1;stroke-width:0.79375"
+         d="M 9.9999997,84.999999 10.000001,45 H 15 v 5 h 15.000002 v 4.999998 H 15 v 30.000001 z"
+         id="path6"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="case left" />
+      <path
+         style="fill:#1fc1dd;fill-opacity:1;stroke-width:0.79375"
+         d="M 110,84.999998 V 44.999999 h -5 v 5 H 90.000004 v 4.999998 H 105 v 30.000001 z"
+         id="path6-3"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="case right" />
+      <path
+         style="fill:#b234c8;fill-opacity:1;stroke-width:0.900027"
+         d="m 15,59.999998 v -5 h 90 v 5 z"
+         id="path7"
+         inkscape:label="top plate" />
+      <path
+         style="fill:#212124;fill-opacity:1;stroke-width:1.50603"
+         d="m 14.999999,70 v 9.999999 H 105 V 70 Z"
+         id="path10"
+         inkscape:label="Foam bottom" />
+      <path
+         style="fill:#212124;fill-opacity:1;stroke-width:1.06493"
+         d="m 15,59.999998 v 5 h 90 v -5 z"
+         id="path10-2"
+         inkscape:label="Foam top" />
+      <path
+         style="fill:#0b660e;fill-opacity:1;stroke-width:1.06493"
+         d="M 15,64.999999 V 70 h 90 v -5.000001 z"
+         id="path11"
+         inkscape:label="PCB" />
+      <g
+         id="g16"
+         inkscape:label="Switch"
+         style="display:inline"
+         inkscape:highlight-color="#f8e82a">
+        <path
+           style="fill:#804f0e;fill-opacity:1;stroke-width:0.79375"
+           d="m 65.000001,74.999998 h 5.000001 V 59.999999 h -4.999997 z"
+           id="path12-6"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="pin r" />
+        <path
+           style="fill:#804f0e;fill-opacity:1;stroke-width:0.79375"
+           d="m 50.000001,74.999998 h 5 V 59.999999 h -4.999997 z"
+           id="path12"
+           sodipodi:nodetypes="ccccc"
+           inkscape:label="pin l" />
+        <path
+           style="fill:#fdac43;fill-opacity:1;stroke-width:0.79375"
+           d="m 40.000001,42.999999 h 4 l 4,-7 h 25.000001 l 3,7 H 80 l -4.999998,-10 H 45.000001 Z"
+           id="path14"
+           sodipodi:nodetypes="ccccccccc"
+           inkscape:label="keycap" />
+        <path
+           style="fill:#fdac43;fill-opacity:1;stroke-width:0.79375"
+           d="m 75.000002,54.999998 v 5 H 45.000001 v -5 h -4.999999 v -5.000001 l 4.999997,-4.999998 H 75 l 5,4.999998 2e-6,5.000001 z"
+           id="path13"
+           sodipodi:nodetypes="ccccccccccc"
+           inkscape:label="body" />
+        <path
+           style="fill:#fdac43;fill-opacity:1;stroke-width:0.79375"
+           d="m 50,44.999999 v -5 l 2.000001,-4 h 16.000001 l 2,4 v 5 z"
+           id="path15"
+           sodipodi:nodetypes="ccccccc"
+           inkscape:label="head" />
+      </g>
+      <path
+         style="fill:#adc723;fill-opacity:1;stroke-width:0.79375"
+         d="M 90.000003,50 V 44.999999 H 105 V 50 H 99.999999 V 84.999999 H 95.000001 V 50 Z"
+         id="path8-1"
+         sodipodi:nodetypes="ccccccccc"
+         inkscape:label="Screw R" />
+      <path
+         style="fill:#adc723;fill-opacity:1;stroke-width:0.79375"
+         d="M 14.999999,50 V 44.999999 H 30.000001 V 50 H 25 V 84.999999 H 20 L 19.999999,50 h -2.5 z"
+         id="path8"
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:label="Screw L" />
+      <text
+         xml:space="preserve"
+         style="font-size:2.80581px;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#adc723;fill-opacity:1;stroke-width:0.701453"
+         x="28.03923"
+         y="109.83746"
+         id="text18"
+         transform="matrix(1.131579,0,0,1.131579,2.8947306,-25)"><tspan
+           sodipodi:role="line"
+           id="tspan18"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:4.98811px;font-family:Monospace;-inkscape-font-specification:'Monospace, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;fill:#ffffff;fill-opacity:1;stroke-width:0.701453"
+           x="28.03923"
+           y="109.83746">Initial Version</tspan></text>
+    </g>
+  </g>
+</svg>

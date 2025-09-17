@@ -1,0 +1,187 @@
+meta:
+  engine: 4.1.0
+  name: unnamed
+  version: 0.1
+  author: PerseusLynx
+
+units:
+  # Sets the keys to choc size
+  ky: cy
+  kx: cx
+  $default_width: cx
+  $default_height: cy
+  px: kx + 2  # horizontal padding
+  py: kx + 1  #vertical padding
+
+  inner_stagger: 5
+  middle_stagger: 5
+  ring_stagger: -5
+  pinky_stagger: -2
+  
+  # Positive is up
+  # relative to neighbor closest to index
+  inner_splay: -1
+  middle_splay: 0
+  ring_splay: -2
+  pinky_splay: -4
+
+  board_rotation: -pinky_splay - ring_splay - middle_splay
+
+points:
+  key:
+    footprints:
+      choc_hotswap:
+        type: choc
+  zones:
+    matrix:
+      # KiCAD Sheet placement
+      anchor:
+        shift: [100, -100]
+      key:
+        padding: py
+        spread: px
+      columns:
+        pinky:
+          key.splay: 0
+          key.column_net: P5
+        ring:
+          key.splay: pinky_splay
+          key.stagger: -pinky_stagger
+          key.spread: px
+          key.column_net: P6
+        middle:
+          key.stagger: -ring_stagger
+          key.splay: ring_splay
+          key.spread: px
+          key.column_net: P7
+        index:
+          key.stagger: -middle_stagger
+          key.splay: middle_splay
+          key.column_net: P8
+        inner:
+          key.stagger: inner_stagger
+          key.splay: inner_splay
+          key.column_net: P9
+      rows:
+        bottom:
+          row_net: P4
+        home:
+          row_net: P3
+        top:
+          row_net: P2
+    thumbfan:
+      anchor:
+        ref: matrix_index_bottom
+        shift: [4, -py]
+      columns:
+        near:
+          key.column_net: P14
+        home:
+          key.spread: 22
+          key.splay: -20
+          key.stagger: -4
+          key.column_net: P16
+        far:
+          key.spread: 22
+          key.splay: -20
+          key.stagger: -4
+          key.column_net: P10
+      rows:
+        thumb:
+  rotate: board_rotation
+#  mirror:
+#    ref: matrix_index_home
+#    distance: 150
+outlines:
+  raw:
+    - what: rectangle
+      where: true
+      size: [px+5, py+5]
+  keys:
+    - what: rectangle
+      where: true
+      size: [kx,ky]
+  board:
+    - what: polygon
+      operation: stack
+      fillet: 2
+      points:
+        - ref: matrix_pinky_top
+          shift: [-0.5px, 0.5py]
+        - ref: matrix_middle_top
+          shift: [-0.5px, 0.5py]
+        - ref: matrix_inner_top
+          shift: [1.5px, 0.5py]
+        - ref: matrix_inner_bottom
+          shift: [1.5px, -0.5py]
+        - ref: thumbfan_far_thumb
+          shift: [-0.2px, 0.6py]
+        - ref: thumbfan_far_thumb
+          shift: [0.5px, 0.5py]
+        - ref: thumbfan_far_thumb
+          shift: [0.5px, -0.5py]
+        - ref: thumbfan_home_thumb
+          shift: [0, -0.5py]
+        - ref: thumbfan_near_thumb
+          shift: [-0.5px, -0.5py]
+        - ref: matrix_pinky_bottom
+          shift: [-0.5px, -0.5py]
+pcbs:
+  main:
+    template: kicad8
+    outlines:
+      main:
+        outline: board
+    footprints:
+      choc_hotswap:
+        what: choc
+        where: true
+        params:
+          keycaps: true
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      diode:
+        what: diode
+        where: true
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [0, -5]
+      mcu_nice_nano:
+        what: mcu_nice_nano
+        where: 
+          ref: matrix_inner_top
+          shift: [1px, -0.5py]
+      reset:
+        what: button
+        params:
+          from: GND
+          to: RST
+        where:
+          ref: matrix_inner_top
+          shift: [1px, 0]
+          rotate: -90
+      mounting_hole_top_left:
+        what: mounting_hole_plated
+        where:
+          ref: matrix_pinky_top
+          shift: [0.5px, 0.5py]
+      mountin_hole_top_right:
+        what: mounting_hole_plated
+        where:
+          ref: matrix_index_top
+          shift: [0.5px, 0.5py]
+      mounting_hole_bottom_left:
+        what: mounting_hole_plated
+        where:
+          ref: matrix_pinky_bottom
+          shift: [0.5px, -0.5py]
+      mounting_hole_right:
+        what: mounting_hole_plated
+        where:
+          ref: thumbfan_far_thumb
+          shift: [-0.5px, 0.5py]
+
