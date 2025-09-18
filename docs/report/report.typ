@@ -297,14 +297,14 @@ Once the PCB was done it was sent for manufacturing at JLCPCB @jlc. In the meant
 
 At my university I had access to CATIA so I used that. It's probably overkill for what I ended up doing but it served pretty well. I had already started working on it whilst I was designing the PCB and also I used the university's 3D printers to create some models to see how it would be.
 
-After a bit of research on different keyboard mounting options @mounting-options, I decided on the sandwich mount because it seemed to offer the lowest profile, and the least building complexity. What you can see in the left diagram in <mounting_designs> is what I had in mind. With the bottom plate being acrylic (frosted preferably) to be able to see the PCB from below. Thanks to my mentor who pointed out that you can't really fix a screw in a 1mm acrylic sheet and everything would fall apart. Unfortunately, I don't have access to the previous CATIA renders, except for this one that I made whilst testing the "photo mode", as seen in @le_epic.
+After a bit of research on different keyboard mounting options @mounting-options, I decided on the sandwich mount because it seemed to offer the lowest profile, and the least building complexity. What you can see in the left diagram in @mounting_designs is what I had in mind. With the bottom plate being acrylic (frosted preferably) to be able to see the PCB from below. Thanks to my mentor who pointed out that you can't really fix a screw in a 1mm acrylic sheet and everything would fall apart. Unfortunately, I don't have access to the previous CATIA renders, except for this one that I made whilst testing the "photo mode", as seen in @le_epic.
 
 #fig(
   "assets/le-epic.png",
   ["_Le Epic_" titled render of an exploded view of an old version of the chassis]
 )<le_epic>
 
-In the end I settled for the solution shown in the right of <mounting_designs>, which involves integrating some nuts into the chassis to hold them in place. Now I'll admit, this is very sub-optimal, as with just the height of the nuts alone, the entire keyboard is elevated \~ 2.5 mm however, but it was the best working solution at the time. In the future, if I include surface mounted switches, the design could probably be improved and I believe that the height of the keys could be lowered substantially.
+In the end I settled for the solution shown in the right of @mounting_designs, which involves integrating some nuts into the chassis to hold them in place. Now I'll admit, this is very sub-optimal, as with just the height of the nuts alone, the entire keyboard is elevated \~ 2.5 mm however, but it was the best working solution at the time. In the future, if I include surface mounted switches, the design could probably be improved and I believe that the height of the keys could be lowered substantially.
 
 #fig(
   "assets/mounting-designs.svg",
