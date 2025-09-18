@@ -1,6 +1,6 @@
 # Daedalus Keyboard
 
-Daedalus is an a compact open-source, split, wireless ergonomic keyboard with trackpad and encoder.
+Daedalus is a compact open-source, split, wireless ergonomic keyboard with trackpad and encoder.
 
 ![Image](/assets/main-img.jpg)
 
