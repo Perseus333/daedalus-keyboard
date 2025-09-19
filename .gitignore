@@ -3,3 +3,6 @@
 # KiCAD stuff
 *fp-info-cache
 *.kicad_prl
+
+# Pandoc files
+*.log

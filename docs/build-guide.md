@@ -17,7 +17,7 @@ The items that have an asterisk can be replaced with others that better suit you
 | 110mAh Li-Po Battery                             | 2          | https://typeractive.xyz/products/lithium-battery-110mah?variant=46118748291303                                             |
 | Cirque Trackpad 35mm                             | 1          | https://eu.mouser.com/ProductDetail/Cirque/TM035035-2024-002?qs=wd5RIQLrsJijxpRBQzhwPg%3D%3D                               |
 | Alps C11 Rotary Encoder                          | 1          | https://mechboards.co.uk/products/kit-components-and-parts?variant=55527712260476                                          |
-| Choc Switches                                    | 40 [⁴]     | https://holykeebs.com/products/ambients-silent-choc-switches?variant=47849514860834                                        |
+| Choc Switches                                    | 40 [^4]     | https://holykeebs.com/products/ambients-silent-choc-switches?variant=47849514860834                                        |
 | Choc Keycaps                                     | 34         | https://typeractive.xyz/products/mbk-keycaps?variant=45419753111783                                                        |
 | Choc Keycaps Homing                              | 2          | I forgot, but I would buy: https://typeractive.xyz/products/mbk-keycaps?variant=45419753177319                             |
 | FPC Cable (12 conductors, 0.5 mm pitch)          | 1          | https://eu.mouser.com/ProductDetail/Molex/15266-0120?qs=R8Vl3J6srxxjZ%2FhzpHORiQ%3D%3D                                     |
@@ -249,7 +249,7 @@ This is the easy part!
 3. Put a nut inside each of the hexagonal containers of the bottom of the case/chassis and lay the keyboards flat.
 4. Put a washer in the short screws (10 mm ones) and drive them through the mounting holes of the plate, PCB and case, then screw them into the nut by hand, and secure each of them with a screwdriver without applying too much pressure. In the image shown below you can see the location of all the 4 screws + the 2 long ones for the trackpad:
 
-![assets](../assets/bg-screw-positions.jpg)
+![Screw Positions](../assets/bg-screw-positions.jpg)
 
 5. The left side is done. On the right side, connect the FPC cable into the connector that is soldered onto the PCB.
 6. Then, align the trackpad holder into its correct position over the case and screw it in the same way as in Step 4, but use this time the 15 mm screws.
