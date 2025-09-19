@@ -12,7 +12,7 @@ It's a 36 key low-profile, split, wireless, ergonomic keyboard that includes a t
 
 The Daedalus Keyboard has been a hobby project that I worked on during the last year. It has been my first real hardware project that I've done, and I learned a lot throughout the way. Therefore, I aim for this project to be the most open and educational keyboard project possible for everyone.
 
-Therefore, here you will find everything needed to get started or to satiate your curiosity: all of the code, the schematics, the CAD files and even my notes during research.
+To that end, here you will find everything needed to get started or to satiate your curiosity: all of the code, the schematics, the CAD files and even my notes during research.
 
 If you're interested in building your own keyboard, then the [report](/docs/report.pdf) might interest you. It is a compreheensive document that describes the whole process of creation of the keyboard step by step, whilst giving some useful tips throughout and some valuable lessons learned at the end.
 
@@ -30,7 +30,6 @@ The repository is split in the following directories:
 Currently I'm working on adding to this repository the following, in order:
 
 - Porting the CATIA files into an open source file format
-- A standalone step by step build guide (& BOM)
 - A contributing/editing guide
 - Publishing the Drawings
 
