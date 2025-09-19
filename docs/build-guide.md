@@ -84,7 +84,7 @@ Order the PCB after downloading it from [GitHub](https://github.com/Perseus333/d
 1. Download the necessary files
 	- There are two routes: If you want to download the PCB as is, follow option A, if you want to check the PCB or make any modifications and make the gerber files yourself, follow option B (recommended).
 	- OPTION A: Download the Gerber & others from GitHub
-		1. Go to the [latest release](https://github.com/Perseus333/daedalus-keyboard/releases/latest) and download the `Gerber.zip`, the `BOM.csv` and the `positions.csv` .
+		1. Go to the [latest release](https://github.com/Perseus333/daedalus-keyboard/releases/latest) and download the `GERBER.zip`, the `BOM.csv` and the `positions.csv` .
 	- OPTION B: Make the Gerber files yourself (Recommended)
 		1. Open the PCB file on KiCAD
 		2. (Recommended) Import the [external footprints](../hardware/footprints.md) into KiCAD. You can follow [the guide by Joe Scotto](https://github.com/joe-scotto/scottokeebs/tree/main/Extras/ScottoKicad) that's linked in the footprints directory. To download the Joe Scotto files, I would recommend using this [GitHub directory downloader](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2Fjoe-scotto%2Fscottokeebs%2Ftree%2Fmain%2FExtras%2FScottoKicad%2Ffootprints) tool, since Joe Scotto's repository is Gigabytes in size. 
@@ -269,7 +269,7 @@ This is the easy part!
 This section just describes how to get the firmware up and running. If you're interested in modifying it refer to the firmware repository: [zmk-keyboards-daedalus](https://github.com/Perseus333/zmk-keyboards-daedalus/tree/master).
 
 1. Start charging the modules with a USB-C power cable by connecting it to the Nice!Nano.
-2. Download the firmware from the `firmware.zip` in the [latest release](https://github.com/Perseus333/daedalus-keyboard/releases/latest)
+2. Download the firmware from the `FIRMWARE.zip` in the [latest release](https://github.com/Perseus333/daedalus-keyboard/releases/latest)
 3. Extract its contents to an accessible directory, you should see a right and left file.
 4. On the keyboard side that has battery, or is charging (you should see an orange light, if it's the left side, you should look below the controller) double press the small reset button right next to it. You should see a blue light from another LED start flashing. If it doesn't light up, try again with different tempos.
 5. The blue light indicates that the bootloader mode is on. Connect a USB-C cable THAT CAN TRANSFER DATA (some charging cables can't) between your computer and the Nice!Nano.

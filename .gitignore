@@ -1,8 +1,10 @@
 *.xcf
+/releases
 
 # KiCAD stuff
 *fp-info-cache
 *.kicad_prl
+hardware/daedalus-backups
 
 # Pandoc files
 *.log
