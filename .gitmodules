@@ -1,3 +1,4 @@
 [submodule "firmware"]
 	path = firmware
 	url = https://github.com/Perseus333/zmk-keyboards-daedalus.git
+	branch = main
