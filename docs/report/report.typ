@@ -1,6 +1,6 @@
 // Config
 #let title = [
-  Daedalus: An open-source split ergonomic keyboard
+  Daedalus: An open-source wireless split ergonomic keyboard with trackpad
 ]
 
 #set heading(

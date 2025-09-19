@@ -1,1 +1,5 @@
 *.xcf
+
+# KiCAD stuff
+*fp-info-cache
+*.kicad_prl
