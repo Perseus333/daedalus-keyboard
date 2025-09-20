@@ -67,7 +67,7 @@ All of the technical keyboard-related terms will be defined in the Nomenclature 
 
 Throughout this document multiple resources will be listed and they will be referenced in the _Resources_ section at the end. Even though they are formatted in a semi-academic manner, due to the nature of this project the listed resources may not be fit for academic purposes and they may be of varying quality.
 
-For a transparent look at all the documents read, and notes taken during the creation of the project, and to view this document in the browser, refer to the #link("https://perseuslynx.dev/projects/daedalus")[project's website].
+For a transparent look at all the documents mentioned, and notes taken during the creation of the project, and to view this document in the browser, refer to the #link("https://perseuslynx.dev/projects/daedalus-kb")[project's website].
 
 = Motivation <motivation>
 
@@ -111,8 +111,6 @@ For the full PDS refer to @appendix_pds. Note that the PDS was last edited at th
 In a professional setting PDS are meant to stay mostly static, however, since this was a personal project and I was relatively new to it, I modified the PDS as I found the limitations of the hardware or as during research I found interesting qualities from other keyboards.
 
 = First-stage research
-
-_Note: The full research can be downloaded or browsed at the #link("https://perseuslynx.dev/projects/daedalus/full/research")[project's website]._
 
 == Keyboard Research
 
@@ -228,7 +226,7 @@ With the key layout defined, I could look into the places where the components m
 
 == Second stage research <second_stage_research>
 
-Now that I had a clear idea how the keyboard would look, it was time to research the specific components that I would use for each part. This part was quite extensive and there was a lot of notes and potentially useful information in it, however due to its length it doesn't fit in this document, and therefore you will be able to find it in the #link("https://perseuslynx.dev/projects/daedalus/full/research")[project's website]. All of the products chosen in this section were the ones that were bought and used for the final keyboard.
+Now that I had a clear idea how the keyboard would look, it was time to research the specific components that I would use for each part. This part was quite extensive and there was a lot of notes and potentially useful information in it, however due to its length it doesn't fit in this document. All of the products chosen in this section were the ones that were bought and used for the final keyboard.
 
 === Microcontroller
 
@@ -459,13 +457,13 @@ In my case I needed to find a "turtle" button (horizontally activated but surfac
 
 = Future development <future_development>
 
-As you have seen,as you've followed through all of the process, there are plenty of things that could've been done better in the current design, some of them are fixes, and others are features that I'd like to add. But below is a comprehensive list of the projects I have planned for the keyboard:
+As you have seen while following through all of the process, there are plenty of things that could've been done better in the current design, some of them are fixes, and others are features that I'd like to add. But below is a comprehensive list of the projects I have planned for the keyboard:
 
 == Fixes
 
 Maybe errors are to be expected from a version 1.0 (some would even call it 0.1), but regardless here are the fixes that I would apply to in v1.1:
 
-- Add a connection from the DR pin to the MCU for the trackpad to work properly(fixed in PCB editor)
+- Add a connection from the DR pin to the MCU for the trackpad to work properly (fixed in PCB editor)
 - Change the FPC Connector footprint to an FPC connector that I can buy
 - Change the reset button footprint to a button that I can buy
 
